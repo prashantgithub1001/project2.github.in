@@ -1,0 +1,136 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.row{
+	margin-bottom: 5px;
+}
+.container-fluid{
+	background-image: url('assets/images/op.webp');
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100vh;
+	margin-bottom: 10px;
+
+/*	background-attachment: fixed;*/
+}
+.mtp h1{
+	padding-top: 50px;
+	font-size: 60px;
+}
+.mtp p{
+	font-size: 32px;
+}
+.mtp h3{
+	color: gray;
+	font-size: 24px;
+	margin-top: 290px;
+	margin-left: 0px;
+	padding-bottom: 10px;
+}
+.butn{
+	border-radius: 20px !important;
+}
+.img2{
+	background-image: url('assets/images/oppo/op2.webp');
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100vh;
+	/*	background-attachment: fixed;*/
+}
+
+.mtp1 p{
+	font-size: 20px;
+}
+.mtp1{
+	padding: 70px;
+	color: white;
+}
+.img3{
+	background-image: url('assets/images/oppo/op3.webp');
+	width: 100%;
+	height: 50vh;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	border: 0px solid black;
+	margin-bottom: 5px;
+
+}
+.img3 h3{
+	padding: 20px 10px;
+}
+.img4{
+	background-image: url('assets/images/oppo/op4.webp');
+	height: 80vh;
+	background-repeat: no-repeat;
+	border: 0px solid black;
+	margin-left: 0px;
+}
+.img4 h3{
+	padding: 5px 10px;
+}
+.img5{
+	background-image: url('assets/images/oppo/op5.webp');
+	width: 100%;
+	height: 80vh;
+	background-repeat: no-repeat;
+	border: 0px solid black;
+
+}
+.img5 h3{
+	padding: 5px 10px;
+}
+.img6{
+	background-image: url('assets/images/oppo/op6.webp');
+	width: 100%;
+	height: 80vh;
+	background-repeat: no-repeat;
+	border: 0px solid black;	
+}
+.img7{
+	background-image: url('assets/images/oppo/op7.webp');
+	width: 100%;
+	height: 80vh;
+	background-repeat: no-repeat;
+	border: 0px solid black;		
+}
+.img8{
+	background-image: url('assets/images/oppo/op8.webp');
+	width: 100%;
+	height: 70vh;
+	background-repeat: no-repeat;	
+	border: 0px solid black;
+	object-fit: scale-down;
+}
+.img9{
+	background-image: url('assets/images/oppo/op9.webp');
+	width: 100%;
+	height: 70vh;
+	background-repeat: no-repeat;	
+	border: 0px solid black;
+}
+.img10{
+	background-image: url('assets/images/oppo/op10.webp');
+	width: 100%;
+	height: 70vh;
+	background-repeat: no-repeat;	
+	border: 0px solid black;
+	display: flex;
+	justify-content: center;
+
+}
+.img11{
+	background-image: url('assets/images/oppo/op11.webp');
+	width: 100%;
+	height: 70vh;
+	background-repeat: no-repeat;	
+	border: 0px solid black;
+}
+.img12{
+	background-image: url('assets/images/oppo/op12.webp');
+	width: 100%;
+	height: 70vh;
+	background-repeat: no-repeat;	
+	border: 0px solid black;
+}
